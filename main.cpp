@@ -2,9 +2,9 @@
 El programa recibe palabras, las guarda en un trie y después se buscan palabras dentro de la estructura.
 
 Autores:
-Yusdivia Molina Román
-Jesús Daniel Lara Yamamoto
-Héctor Arturo Noyola Mondragón
+Yusdivia Molina
+Daniel Yamamoto
+Héctor Noyola
 
 Fecha de modificación: 23/09/2021
 */
